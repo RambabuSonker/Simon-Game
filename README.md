@@ -67,4 +67,7 @@ Simon-Game/
 
 ## 📸 Project Preview
 
-![Simon Game](screenshot.png)
+![Simon Game](simongame.png)
+
+
+
