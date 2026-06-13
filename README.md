@@ -64,3 +64,7 @@ Simon-Game/
 ---
 ⭐ If you like this project, don't forget to give it a star on GitHub!
 
+
+## 📸 Project Preview
+
+![Simon Game](screenshot.png)
