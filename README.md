@@ -47,8 +47,6 @@ Simon-Game/
 
 3. Open `index.html` in your browser or use a Live Server extension in VS Code.
 
-## 📸 Preview
-(Add a screenshot or GIF of your project here)
 
 ## 🔮 Future Improvements
 - Add difficulty levels
